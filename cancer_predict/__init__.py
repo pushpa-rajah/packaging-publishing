@@ -1,1 +1,1 @@
-from . cancer_model import CancerModel
+from .cancer_model import CancerModel
