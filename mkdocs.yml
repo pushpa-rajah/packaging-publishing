@@ -1,0 +1,12 @@
+site_name: Cancer Prediction
+site_url: https://https://github.com/pushpa-rajah/packaging-publishing
+
+nav:
+  - Home: index.md
+  - cancer-predict:
+    - cancer model: /cancer_model.md
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .  # reload docs for file changes
